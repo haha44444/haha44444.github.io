@@ -7,6 +7,6 @@
 > #### *咕咕咕咕咕咕*
 > #### ***我再咕咕咕咕咕***
 ##### 什么？你说最后？这显然是没了啊！
-* ###### 一个由 鬼? 看了 [Runoob](https://www.runoob.com) 后写出的一些~~可怜~~`makedown`东西
+* ###### 一个由 haha44444 看了 [Runoob](https://www.runoob.com) 后写出的一些~~可怜~~`makedown`东西
 * ###### *由 `github pages` 托管*
-快来看看[流量消耗器](./fuck-data.html)！
+## 快来看看[流量消耗器](./fuck-data.html)！
